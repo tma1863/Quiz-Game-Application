@@ -22,7 +22,7 @@ The details of API Endpoints with be written in `api_endpoints_document.md`.
 
 # OVERALL ARCHITECTURE
 This project follows a clean 3-layer Spring Boot architecture as below:
-![](image/quizapp.drawio.pdf)
+![](image/quizapp_drawio.png)
 
 ## 1. Controller Layer (`controller/`)
 - Handles HTTP requests and routes them to the service layer.
