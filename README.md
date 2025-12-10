@@ -73,7 +73,7 @@ This project follows a clean 3-layer Spring Boot architecture as below:
 
 ## 3. Secure Quiz Question Retrieval
 When fetching quiz questions:
-- Correct answer are hidden using a `QuestionWrapper` Data Transfer Object (DTO).
+- Correct answer are hidden using a `QuestionWrapper` DTO.
 - Only safe fields are returned, such as questionTitle, and 4 multiple choice answers.
 
 ## 4. Quiz Submission & Auto-Scoring
