@@ -18,7 +18,7 @@ The application uses PostgreSQL for data presistence and Spring Data JPA for eas
 ```
 http://localhost:8080/question
 ```
-The details of API Endpoints with be written in `api_endpoints_document.md`.
+The details of API Endpoints will be written in `api_endpoints_document.md`.
 
 # OVERALL ARCHITECTURE
 This project follows a clean 3-layer Spring Boot architecture as below:
